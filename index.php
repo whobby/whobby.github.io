@@ -8,8 +8,10 @@
 
 ?>
 <html>
+<head>
 <link rel="stylesheet" type="text/css" href="css/index.css"
 <title>Wayne's World</title>
+</head>
 <body>
 
 </body>
