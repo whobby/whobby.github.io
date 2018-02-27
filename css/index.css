@@ -12,5 +12,13 @@ ul {
 }
 li a{
     display: block;
-    width: 5%;
+    color: black;
+    padding: 8px 16px;
+    width: 40px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: black;
+    color: #007707;
 }
