@@ -19,9 +19,9 @@ li {
 
 li a{
     display: block;
-    color: black;
+    color: linen;
     padding: 8px 16px;
-    width: 150px;
+    width: 200px;
     text-decoration: none;
     text-align: center;
     border-radius: 25%;
