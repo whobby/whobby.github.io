@@ -9,6 +9,8 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    border-radius: 25%;
+    border: 1px;
 }
 li {
     display: inline-grid;
@@ -21,6 +23,8 @@ li a{
     width: 150px;
     text-decoration: none;
     text-align: center;
+    border-radius: 25%;
+    border: 1px;
 }
 
 li a:hover {
