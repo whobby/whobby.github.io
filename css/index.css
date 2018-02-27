@@ -10,8 +10,7 @@ ul {
     margin: 0;
     padding: 0;
     border-radius: 25%;
-    border: 1px;
-    background-color: #007707;
+    border: black 1px;
 }
 li {
     display: inline-grid;
@@ -25,7 +24,7 @@ li a{
     text-decoration: none;
     text-align: center;
     border-radius: 25%;
-    border: 1px;
+    border: black 1px;
     background-color: #004400;
 }
 
