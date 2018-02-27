@@ -2,6 +2,11 @@ body {
     background-color: linen;
 }
 
-hi {
+h1 {
     color: #666666;
+}
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
